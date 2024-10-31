@@ -16,10 +16,8 @@ News Aggregator uses a large language model with the copilot kit eco-system to g
 ### 🌐 **App Link**
 
 [Live Demo](https://news-pulse-new-i2od.vercel.app/)
+[dev.to](https://dev.to/mayank_mohapatra/how-i-built-news-pulse-with-copilotkit-5c3p)
 
----
-
----
 
 ### 🙋‍♂️ **Who Are You?**
 
